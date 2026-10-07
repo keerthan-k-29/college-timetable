@@ -1,0 +1,34 @@
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #EDE9D0;
+    color: black;
+}
+
+td {
+    background-color: #F9F7EF;
+}
+.cns {
+    background-color: #DCEBFA;
+}
+
+.toc {
+    background-color: #DDEFE0;
+}
+
+.ai {
+    background-color: #FFF3CD;
+}
+
+.se {
+    background-color: #E9DDF5;
+}
